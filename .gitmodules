@@ -1,0 +1,3 @@
+[submodule "modules/fancymodule"]
+	path = modules/fancymodule
+	url = https://github.com/dm1seven/fancymodule
