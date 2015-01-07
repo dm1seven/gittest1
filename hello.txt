@@ -1,2 +1,2 @@
 Welcome to the github tutorial!
-Nice versioning tool!
+Git is a nice versioning tool!
