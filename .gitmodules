@@ -1,3 +1,6 @@
 [submodule "fancymodule"]
 	path = submodules/fancymodule
 	url = https://github.com/dm1seven/fancymodule
+[submodule "modules/supermodule"]
+	path = modules/supermodule
+	url = https://github.com/dm1seven/supermodule
